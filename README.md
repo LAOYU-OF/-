@@ -6,7 +6,7 @@
 
 **点击下方链接直接体验：**
 
- **[启动魔法阵 (Launch Magic Hexagram)](https://laoyu-of.github.io/-/magic_hexagram.html)**
+ **[启动魔法阵 (Launch Magic Hexagram)](https://laoyu-of.github.io/html/magic_hexagram.html)**
 
 *(注意：首次打开可能需要允许摄像头权限，且加载模型需要几秒钟)*
 
